@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-Gomezdev5}.github.io/{Gomezdev5}'",
+    "build-gh": "parcel build --public-url 'https://{Gomezdev5}.github.io/{portifolio-anderson}'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
