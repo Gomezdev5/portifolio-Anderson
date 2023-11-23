@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Anderson Gomes",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  title: "Desenvolvedor",
+  email: "cunha.anderson@academico.ifpb.edu.br",
+  gitHub: "Gomezdev5",
+  instagram: "Gomezand",
+  linkedIn: "Anderson",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
